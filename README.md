@@ -1,1 +1,1 @@
-## Welcome to Haberetta GitHub Pages
+# The Github Page
